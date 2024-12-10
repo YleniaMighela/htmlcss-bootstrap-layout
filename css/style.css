@@ -3,7 +3,7 @@
 
 [class^='container'] {
 /* background-color: aqua; */
-min-height:80vh;
+/* min-height:80vh; */
 }
 
 [class^='col'] {
@@ -25,4 +25,7 @@ min-height:80vh;
 
 .text-white{
     color:white;
+}
+.col{
+    padding:20px;
 }
