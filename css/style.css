@@ -1,0 +1,22 @@
+
+/* REGOLE DI DEBUG */
+
+[class^='container'] {
+/* background-color: aqua; */
+min-height:80vh;
+}
+
+[class^='col'] {
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+.title{
+    text-align: center;
+    padding:30px;
+}
